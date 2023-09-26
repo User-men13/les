@@ -1,0 +1,24 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Kenia;
+}
+
+.header {
+    backdround-color:black;
+    color:rgb(23, 206, 160);
+}
+
+.main {
+  backdround-color:rgb(0, 0, 0);
+  color:rgb(15, 155, 190);
+}
+
+.footer{backdround-color:black;
+    color:rgb(161, 31, 236);
+}
+
+.block-text {
+ font-size: 20px;
+ 
+}
